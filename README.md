@@ -1,4 +1,4 @@
-# GAIL WM
+# GAIL PPO PyTorch
 
 NOTE (12/16/24): This is in a working state and will be updated over the course of the next few weeks.
 
